@@ -10,4 +10,5 @@ A previous version of the corpus was thoroughly evaluated in "Threat detection i
 For more information about the data set, and the preprocessing performed on it, we refer to Chapter 3 of the master's thesis "Detecting threats of violence in online discussions" (Wester, 2016), which can be found at https://www.duo.uio.no/handle/10852/51497.
 
 Sincerely,
+
 Hugo Lewi Hammer, Michael Riegler, Lilja Øvrelid and Erik Velldal
