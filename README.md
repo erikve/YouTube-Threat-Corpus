@@ -1,7 +1,7 @@
 
 # YouTube-Threat-Corpus
 
-This corpus consists of a total of around 30 000 sentences from around 10 000 YouTube comments. Each sentence is manually annotated as either being a threat or not. 
+This corpus consists of a total of around 30 000 sentences from around 10 000 YouTube comments. Each sentence is manually annotated as either being a threat of (or sympathy with) violence or not. 
 
 The corpus can be found in the folder 'YouTubeThreatCorpus'. The corpus is described in the papers "THREAT: A Large Annotated Corpus for Threat Detection" (Hammer et al. 2019). 
 
